@@ -32,7 +32,7 @@
 - Decide as a team.
 - Be responsive - no longer than half day.
 - Let others know if you think you are behind.
-- If you're stuck on a problem more than 1 hour, It is time to ask for help.
+- If you're stuck on a problem for more than 1 hour, it is time to ask for help.
 - Once you are finished on a task, mark it as done.
 
 **Good luck! 🎉🎉🎉**
